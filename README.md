@@ -1,5 +1,10 @@
 # Ham Arduino Rotator Device
 
+## CREW
+
+Diego Cioschi: concept and first code writing
+Bruno Passeri: code optimization and refactoring
+
 ## Library dependencies
 
 [**UTFT**](http://www.rinkydinkelectronics.com/library.php?id=51) – A universal library that supports a large number of display modules and controllers
