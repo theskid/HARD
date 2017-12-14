@@ -3,6 +3,7 @@
 ## CREW
 
 Diego Cioschi: concept and first code writing
+
 Bruno Passeri: code optimization and refactoring
 
 ## Library dependencies
